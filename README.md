@@ -205,11 +205,15 @@ This dashboard helps organizations:
 
 # 🔗 Connect With Me
 
-## LinkedIn
-Add Your LinkedIn Profile Link
+<p align="left">
+  <a href="https://www.linkedin.com/in/devulalkethavath" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Devulal%20Kethavath-blue?style=for-the-badge&logo=linkedin" />
+  </a>
 
-## GitHub
-Add Your GitHub Profile Link
+  <a href="https://github.com/Devulalkethavath" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Devulalkethavath-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 ---
 
