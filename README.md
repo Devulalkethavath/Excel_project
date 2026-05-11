@@ -18,7 +18,7 @@ Business_Sales_Insights_Dashboard.xlsx
 The dashboard is designed to provide meaningful business insights through interactive reports and KPI analysis.
 # 📷 Dashboard Snapshot
 
-![Business_Sales_Insights_Dashboard](https://raw.githubusercontent.com/Devulalkethavath/Business_Sales_Insights_Dashboard/main/Screenshot%202026-02-26%20153809.png)
+![Business_Sales_Insights_Dashboard](https://raw.githubusercontent.com/Devulalkethavath/Business_Sales_Insights_Dashboard/main/1772122085925-f6731a65-f533-4559-8001-9541d5f3556e_1(1).jpg)
 ---
 
 # 📊 Dashboard Snapshot (Microsoft Excel)
